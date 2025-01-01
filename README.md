@@ -6,6 +6,7 @@ This project is a responsive Hero Section of a website, built using React and Ta
 
 React: Modular, reusable components for faster development.
 Tailwind CSS: Utility-first CSS for streamlined styling.
+
 🎨 Design Highlights:
 
 - Hero Section with engaging visuals and a focus on AI chatting.
