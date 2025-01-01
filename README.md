@@ -4,8 +4,8 @@ This project is a responsive Hero Section of a website, built using React and Ta
 # Features
 ✨ Technologies Used:
 
-React: Modular, reusable components for faster development.
-Tailwind CSS: Utility-first CSS for streamlined styling.
+- React: Modular, reusable components for faster development.
+- Tailwind CSS: Utility-first CSS for streamlined styling.
 
 🎨 Design Highlights:
 
