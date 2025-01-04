@@ -56,7 +56,7 @@ const Benefits = () => {
                                 </div>
                             </div>
 
-                            <ClipPath/>
+                            <ClipPath />
                             </div>
                         ))}
                     </div>
