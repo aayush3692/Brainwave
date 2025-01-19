@@ -54,8 +54,8 @@ Brainwave is an AI-powered chat application designed to enhance productivity and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aayush3692/brainwave.git
-   cd brainwave
+   git clone https://github.com/aayush3692/Brainwave.git
+   cd Brainwave
    ```
 
 2. Install dependencies:
